@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSPA", "HSPA.csproj", "{1ABB8DD0-FB69-48B9-901B-1E2B9CC3230A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ABB8DD0-FB69-48B9-901B-1E2B9CC3230A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABB8DD0-FB69-48B9-901B-1E2B9CC3230A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABB8DD0-FB69-48B9-901B-1E2B9CC3230A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABB8DD0-FB69-48B9-901B-1E2B9CC3230A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68A1B64B-AD4C-4D71-970D-969F61794747}
+	EndGlobalSection
+EndGlobal
